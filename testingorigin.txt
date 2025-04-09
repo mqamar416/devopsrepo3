@@ -1,1 +1,2 @@
 This is a test file to test pull with origin
+This is the new line to test git fetch
